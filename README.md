@@ -11,6 +11,8 @@ Expected Outcome: Accurately predict whether a transaction is fraudulent or not.
 ### 2. Data Collection & Understanding
 Source: The dataset is publicly available on the Kaggle platform under the “Credit Card Fraud Detection” dataset.
 
+Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Dataset Description:
 
 Rows (transactions): Approximately 284,807
